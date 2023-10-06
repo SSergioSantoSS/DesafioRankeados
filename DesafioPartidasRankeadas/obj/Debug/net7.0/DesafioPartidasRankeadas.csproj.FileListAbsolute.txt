@@ -1,0 +1,14 @@
+C:\Projetos\ProjVS\VS22\DesafioPartidasRankeadas\DesafioPartidasRankeadas\bin\Debug\net7.0\DesafioPartidasRankeadas.exe
+C:\Projetos\ProjVS\VS22\DesafioPartidasRankeadas\DesafioPartidasRankeadas\bin\Debug\net7.0\DesafioPartidasRankeadas.deps.json
+C:\Projetos\ProjVS\VS22\DesafioPartidasRankeadas\DesafioPartidasRankeadas\bin\Debug\net7.0\DesafioPartidasRankeadas.runtimeconfig.json
+C:\Projetos\ProjVS\VS22\DesafioPartidasRankeadas\DesafioPartidasRankeadas\bin\Debug\net7.0\DesafioPartidasRankeadas.dll
+C:\Projetos\ProjVS\VS22\DesafioPartidasRankeadas\DesafioPartidasRankeadas\bin\Debug\net7.0\DesafioPartidasRankeadas.pdb
+C:\Projetos\ProjVS\VS22\DesafioPartidasRankeadas\DesafioPartidasRankeadas\obj\Debug\net7.0\DesafioPartidasRankeadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProjVS\VS22\DesafioPartidasRankeadas\DesafioPartidasRankeadas\obj\Debug\net7.0\DesafioPartidasRankeadas.AssemblyInfoInputs.cache
+C:\Projetos\ProjVS\VS22\DesafioPartidasRankeadas\DesafioPartidasRankeadas\obj\Debug\net7.0\DesafioPartidasRankeadas.AssemblyInfo.cs
+C:\Projetos\ProjVS\VS22\DesafioPartidasRankeadas\DesafioPartidasRankeadas\obj\Debug\net7.0\DesafioPartidasRankeadas.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjVS\VS22\DesafioPartidasRankeadas\DesafioPartidasRankeadas\obj\Debug\net7.0\DesafioPartidasRankeadas.dll
+C:\Projetos\ProjVS\VS22\DesafioPartidasRankeadas\DesafioPartidasRankeadas\obj\Debug\net7.0\refint\DesafioPartidasRankeadas.dll
+C:\Projetos\ProjVS\VS22\DesafioPartidasRankeadas\DesafioPartidasRankeadas\obj\Debug\net7.0\DesafioPartidasRankeadas.pdb
+C:\Projetos\ProjVS\VS22\DesafioPartidasRankeadas\DesafioPartidasRankeadas\obj\Debug\net7.0\DesafioPartidasRankeadas.genruntimeconfig.cache
+C:\Projetos\ProjVS\VS22\DesafioPartidasRankeadas\DesafioPartidasRankeadas\obj\Debug\net7.0\ref\DesafioPartidasRankeadas.dll
